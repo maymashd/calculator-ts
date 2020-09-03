@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES3",
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        "outDir": "dist",
+        "lib": [
+            "DOM",
+            "ES2020"
+        ]
+    },
+    "include": ["./src"]
+
+}
